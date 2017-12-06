@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pn_red">#F44336</color>
+    <color name="pn_blue">#01579b</color>
+    <color name="pn_blue_dark">#1A237E</color>
+    <color name="white">#E8EAF6</color>
+    <color name="green">#4caf50</color>
+    <color name="grey">#9e9b9b</color>
+</resources>
